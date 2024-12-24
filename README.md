@@ -26,7 +26,7 @@ cd <repository-directory>
 ### Step 2: Run the Script
 Run the script using Python:
 ```bash
-python <script_name>.py
+python encdec.py
 ```
 
 ### Step 3: Choose an Operation
@@ -80,10 +80,9 @@ File example.txt decrypted and saved.
 ```
 
 ## File Structure
-- `script_name.py`: Python script for encryption and decryption.
+- `encdec.py`: Python script for encryption and decryption.
 
 ## Notes
 - The script modifies the file in place, so make sure to keep a backup of the original file if necessary.
 - Always store your encryption keys in a secure location. Loss of the key means the data cannot be recovered.
-
 
