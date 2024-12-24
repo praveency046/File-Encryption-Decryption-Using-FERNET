@@ -19,8 +19,8 @@ pip install cryptography
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/praveency046/File-Encryption-Decryption-Using-FERNET
+cd File-Encryption-Decryption-Using-FERNET
 ```
 
 ### Step 2: Run the Script
